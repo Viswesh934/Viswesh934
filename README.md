@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sigireddy Viswesh</h1>
 <h3 align="center">A passionate Student from India.</h3>
 
-- 🌱 I’m currently learning JavaScript and Advanced python **ReactJs, Express**
+- 🌱 I’m currently a MERN stack developer with knowledge about Machine learning and Devops 
 
 - 🤝 I’m looking for help with Our Networking101 [Networking101](https://github.com/Manchina/Mini-Courses)
 

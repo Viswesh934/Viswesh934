@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sigireddy Viswesh</h1>
 <h3 align="center">A passionate Student from India.</h3>
 
-- 🌱 I’m currently a MERN stack developer with knowledge about Machine learning and Devops 
+- 🌱 I’m a developer who wants to explore things
 
-- 🤝 I’m looking for help with Our Networking101 [Networking101](https://github.com/Manchina/Mini-Courses)
-
-- 💬 Ask me about **Java,C,Python**
+- 💬 Ask me about **Java,C,Python,Javascript**
 
 - 📫 How to reach me **sigireddyviswesh@gmail.com**
 

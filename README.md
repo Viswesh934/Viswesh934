@@ -13,7 +13,7 @@ I build systems, not just projects.
 - 🧠 Interested in system design, scaling, and performance  
 - 🛠️ I like building tools, not just apps  
 - 📦 Comfortable across multiple stacks (TypeScript, Python, Go)  
-- 🔍 I care about how things work under the hood  
+
 
 ---
 

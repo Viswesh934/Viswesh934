@@ -19,7 +19,7 @@ I build systems, not just projects.
 
 ### 🔥 What I've Built
 
-- 🚦 **TrafficJS** → system design toolkit  
+- 🚦 **TrafficJS** → system metrics calculator 
   → traffic estimation, storage planning, infra cost modeling, metrics server  
 
 - 🧩 Multiple language-based repos (C, Python practice + problem solving)
